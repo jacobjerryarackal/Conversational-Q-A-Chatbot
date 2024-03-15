@@ -1,0 +1,3 @@
+streamlit #Used for Frontend
+google-generativeai #This library is used to access the entire Gemini Pro API
+python-dotenv #this is used to upload the environment variables
